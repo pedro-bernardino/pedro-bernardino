@@ -1,16 +1,14 @@
-## Hi there 👋
+**Hi there** 👋
 
-<!--
-**pedro-bernardino/pedro-bernardino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pedro, i live in Portugal and i'm starting my IT journey.
 
-Here are some ideas to get you started:
+I’m a civil engineer working in a career change, turning my Hobby Into a Full-Time Job.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning Java to become an Oracle Certified Associate (OCA) Java SE 8 Programmer.
+
+I’m learning/working in my homelab:
+- Proxmox
+  * virtualized OPNsense
+  * virtualized Docker server
+  * virtualized ha k3s cluster
+- Truenas (TerraMaster F2-423)
